@@ -1,0 +1,10 @@
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\bin\Debug\WindowsFormsApp7 اله الحاسبة المشروع الاول.exe.config
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\bin\Debug\WindowsFormsApp7 اله الحاسبة المشروع الاول.exe
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\bin\Debug\WindowsFormsApp7 اله الحاسبة المشروع الاول.pdb
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\obj\Debug\WindowsFormsApp7 اله الحاسبة المشروع الاول.csproj.AssemblyReference.cache
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\obj\Debug\WindowsFormsApp7_اله_الحاسبة_المشروع_الاول.Calculator.resources
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\obj\Debug\WindowsFormsApp7_اله_الحاسبة_المشروع_الاول.Properties.Resources.resources
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\obj\Debug\WindowsFormsApp7 اله الحاسبة المشروع الاول.csproj.GenerateResource.cache
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\obj\Debug\WindowsFormsApp7 اله الحاسبة المشروع الاول.csproj.CoreCompileInputs.cache
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\obj\Debug\WindowsFormsApp7 اله الحاسبة المشروع الاول.exe
+C:\Users\abd alrhmam knaan\Music\صور\WindowsFormsApp7 اله الحاسبة المشروع الاول\WindowsFormsApp7 اله الحاسبة المشروع الاول\obj\Debug\WindowsFormsApp7 اله الحاسبة المشروع الاول.pdb
